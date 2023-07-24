@@ -1,4 +1,5 @@
 name: Rosiek Auto Serwis
-markdown: redcarpet
 highlighter: rouge
 permalink: /:title.html
+plugins:
+  - jekyll-seo-tag
