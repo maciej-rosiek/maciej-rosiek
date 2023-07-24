@@ -1,5 +1,6 @@
 name: Rosiek Auto Serwis
 highlighter: rouge
 permalink: /:title.html
+url: "https://rosiekautoserwis.pl"
 plugins:
   - jekyll-seo-tag
